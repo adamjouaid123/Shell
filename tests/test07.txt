@@ -1,0 +1,3 @@
+# Test de la commande cd avec un répertoire inexistant
+cd inexistant
+q

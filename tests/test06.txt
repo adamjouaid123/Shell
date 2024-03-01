@@ -1,0 +1,3 @@
+# Test en utilisant la commande grep
+ls src | grep .c
+q

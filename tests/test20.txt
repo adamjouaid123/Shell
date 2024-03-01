@@ -1,0 +1,4 @@
+# Description: Vérifier si la variable d'environnement est correctement exportée
+# NOTE : Ce test pourrait ne pas fonctionner avec sdriver. Il est recommandé de le tester manuellement sur la ligne de commande.
+# Test:
+echo $MY_VAR

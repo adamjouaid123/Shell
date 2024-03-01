@@ -1,0 +1,2 @@
+# Description: Teste la commande 'ls' avec le caractère ~ pour le répertoire de l'utilisateur
+ls ~

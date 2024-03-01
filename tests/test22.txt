@@ -1,0 +1,7 @@
+# Description: Exécuter une commande en arrière-plan, afficher les jobs en cours, attendre un certain temps (le temps que sleep 5 en arriere plan se termine), 
+# puis afficher à nouveau les jobs en cours.
+# Test:
+sleep 5 &
+jobs
+sleep 5
+jobs

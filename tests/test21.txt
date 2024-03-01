@@ -1,0 +1,4 @@
+# Description: Effacer la variable d'environnement 
+# NOTE : Ce test pourrait ne pas fonctionner avec sdriver. Il est recommandé de le tester manuellement sur la ligne de commande.
+# Test:
+unset MY_VAR

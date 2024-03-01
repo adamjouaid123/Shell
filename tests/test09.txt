@@ -1,0 +1,3 @@
+# Test de plusieurs tubes (pipes)
+ls src | grep .c | wc -l
+q

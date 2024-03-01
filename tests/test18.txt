@@ -1,0 +1,2 @@
+# Attendre 5 secondes avant de passer à la prochaine instruction
+sleep 5

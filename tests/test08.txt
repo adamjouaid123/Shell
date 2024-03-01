@@ -1,0 +1,3 @@
+# Test de la commande echo
+echo Bonjour 
+q

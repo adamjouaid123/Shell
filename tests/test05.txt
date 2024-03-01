@@ -1,0 +1,4 @@
+# Test de redirection d'entrée et de sortie
+ls > sortie.txt
+cat < sortie.txt
+q

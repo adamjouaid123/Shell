@@ -1,0 +1,15 @@
+# Description : Tester les commandes bg, fg et stop 
+# NOTE : Ce test pourrait ne pas fonctionner avec sdriver. Il est recommandé de le tester manuellement sur la ligne de commande.
+# Test : 
+sleep 100 &
+sleep 100 &
+sleep 100 &
+jobs
+stop 1
+stop 2
+fg 1
+INT
+jobs
+fg 3
+TSTP
+jobs

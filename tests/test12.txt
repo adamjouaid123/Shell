@@ -1,0 +1,3 @@
+# Test de commande invalide
+commande_invalide
+q

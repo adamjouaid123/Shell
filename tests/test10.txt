@@ -1,0 +1,4 @@
+# Test de création de fichier
+touch nouveau_fichier.txt
+ls
+q

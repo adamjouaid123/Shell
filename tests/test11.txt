@@ -1,0 +1,5 @@
+# Test de suppression de fichier
+touch nouveau_fichier.txt
+rm nouveau_fichier.txt
+ls
+q

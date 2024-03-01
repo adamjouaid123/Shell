@@ -1,0 +1,3 @@
+# Envoyer le signal SIGQUIT à votre shell
+QUIT
+WAIT

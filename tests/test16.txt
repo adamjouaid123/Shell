@@ -1,0 +1,3 @@
+# Envoyer le signal SIGKILL à votre shell
+KILL
+WAIT

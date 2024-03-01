@@ -1,0 +1,2 @@
+# Description: Teste la commande 'ls' avec le caractère * pour afficher tous les fichiers et sous-répertoires dans le répertoire personnel de l'utilisateur
+ls ~/*

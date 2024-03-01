@@ -1,0 +1,4 @@
+# Description: Exporter une variable d'environnement
+# NOTE : Ce test pourrait ne pas fonctionner avec sdriver. Il est recommandé de le tester manuellement sur la ligne de commande.
+# Test:
+export MY_VAR = Hello World

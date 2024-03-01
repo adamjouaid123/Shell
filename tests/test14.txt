@@ -1,0 +1,3 @@
+# Envoyer le signal SIGINT (Ctrl + C) au shell, marche pas avec sdriver, on recommende tester manuellement sur la ligne de commande
+INT
+WAIT

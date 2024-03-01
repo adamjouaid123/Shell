@@ -1,0 +1,4 @@
+# Envoyer le signal SIGTSTP (Ctrl + Z) au shell
+pwd
+TSTP
+WAIT

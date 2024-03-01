@@ -1,0 +1,3 @@
+# Envoyer EOF (Ctrl + D) à votre shell
+CLOSE
+WAIT
