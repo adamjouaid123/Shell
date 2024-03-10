@@ -203,7 +203,7 @@ void handle_child_process(pid_t pid, int *background, char **args) {
     } else {
         // Si la commande est exécutée en arrière-plan, ajouter le processus enfant à la liste des emplois
         add_job(pid, args[0], 1);
-        exit(1);
+        
     }
 }
 

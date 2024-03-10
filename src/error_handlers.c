@@ -62,7 +62,7 @@ void execute_with_error_handling(char **args) {
         if (errno == ENOENT) {
             // Commande non trouvée
             fprintf(stderr, "%s: commande introuvable\n", args[0]);
-        } else if (errno == EACCES) {
+        } else  if (errno == EACCES) {
             // Permission refusée
             fprintf(stderr, "%s:  permission refusée\n", args[0]);
         } else {
